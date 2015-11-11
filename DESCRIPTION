@@ -1,0 +1,13 @@
+Package: riva
+Type: Package
+Title: Rare biosphere and indicator species visualization and analysis.
+Version: 0.1
+Date: 2015-02-17
+Authors@R: person("Michael", "Lynch", email = "mdjlynch@gmail.com",
+                  role = c("aut", "cre"))
+Description: A collection of functions useful for exploring (visualization) and analysis of
+  rare biosphere and indicator species dynamics in microbial ecosystems. The name riva
+  (Rare biosphere and Indicator Visualization and Analysis) also alludes to the "entangled bank"
+  in the final paragraph of Origin of Species (riva = bank or shore in Italian)
+Depends: biom, ggplot
+License: GPL (>=2)
